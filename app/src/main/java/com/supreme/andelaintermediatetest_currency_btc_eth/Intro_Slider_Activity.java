@@ -43,7 +43,6 @@ public class Intro_Slider_Activity extends AppIntro2 {
     public void onSkipPressed(Fragment currentFragment) {
         super.onSkipPressed(currentFragment);
         launchHomeScreen();
-
     }
 
     public void launchHomeScreen() {
