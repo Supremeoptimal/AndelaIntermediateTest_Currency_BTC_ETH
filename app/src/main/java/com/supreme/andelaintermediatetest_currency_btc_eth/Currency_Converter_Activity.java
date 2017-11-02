@@ -20,8 +20,6 @@ public class Currency_Converter_Activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_currency__converter_);
 
-        //set backbtn
-        //change header name
         Intent intent = getIntent();
         card = intent.getStringExtra("CURRENCY").split(",");
         TextView currency = (TextView) findViewById(R.id.currency);

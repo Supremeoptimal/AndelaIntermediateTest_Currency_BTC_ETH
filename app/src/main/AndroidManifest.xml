@@ -22,7 +22,9 @@
         <activity android:name=".Currency" />
         <activity
             android:name=".Currency_Converter_Activity"
-            android:label="@string/currency_converter"></activity>
+            android:label="@string/currency_converter">
+
+        </activity>
     </application>
 
 </manifest>

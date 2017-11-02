@@ -95,6 +95,7 @@ public class Currency extends AppCompatActivity {
         }
     }
 
+    //Method set to add country flags to each card
     Map getFlags() {
         Map<String, String> flags = new HashMap<>();
         flags.put("USD", String.valueOf(R.drawable.flag_usa));
@@ -173,6 +174,8 @@ public class Currency extends AppCompatActivity {
             public void success(JSONObject response) throws JSONException {
                 ArrayList cards = new ArrayList();
                 ArrayList<String> iterator = new ArrayList<>();
+                //Getting JSON object
+                //BTC and ETH
                 JSONObject BTC = response.getJSONObject("BTC");
                 JSONObject ETH = response.getJSONObject("ETH");
                 Map flags = getFlags();

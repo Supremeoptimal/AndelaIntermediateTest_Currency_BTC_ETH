@@ -3,6 +3,7 @@ package com.supreme.andelaintermediatetest_currency_btc_eth;
 import android.content.Context;
 import android.content.SharedPreferences;
 
+//Class created to check first time launch
 class PreferenceManager {
     private SharedPreferences pref;
     private SharedPreferences.Editor editor;
