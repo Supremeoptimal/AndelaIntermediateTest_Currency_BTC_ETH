@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#014C40</color>
+    <color name="colorPrimaryDark">#014C40</color>
+    <color name="colorAccent">#014C40</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="ash">#EDEDED</color>
+    <color name="black">#111000</color>
+    <color name="slide_1">#F7931A</color>
+    <color name="slide_2">#242C3A</color>
+    <color name="slide_3">#F76363</color>
+</resources>

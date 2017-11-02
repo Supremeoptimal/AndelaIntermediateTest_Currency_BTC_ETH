@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Crypto Converter</string>
+
+    <string name="currency_converter">Currency Converter</string>
+
+    <string name="calculate">Enter Currency Value</string>
+    <string name="convert">Convert</string>
+    <string name="loading">loading . . .</string>
+    <string name="no_internet">NO INTERNET CONNECTION</string>
+</resources>
