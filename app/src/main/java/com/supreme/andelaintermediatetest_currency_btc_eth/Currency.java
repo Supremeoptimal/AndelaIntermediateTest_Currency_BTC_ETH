@@ -150,7 +150,6 @@ public class Currency extends AppCompatActivity {
             }
         });
         thread.start();
-
     }
 
     interface GetData {
