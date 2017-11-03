@@ -12,7 +12,9 @@
         android:roundIcon="@drawable/crypto_logo"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Intro_Slider_Activity">
+        <activity
+            android:name=".Intro_Slider_Activity"
+            android:theme="@style/AppTheme.">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

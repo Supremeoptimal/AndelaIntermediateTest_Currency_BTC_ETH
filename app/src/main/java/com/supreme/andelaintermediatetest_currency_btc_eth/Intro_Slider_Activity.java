@@ -50,5 +50,4 @@ public class Intro_Slider_Activity extends AppIntro2 {
         startActivity(new Intent(Intro_Slider_Activity.this, Currency.class));
         finish();
     }
-
 }

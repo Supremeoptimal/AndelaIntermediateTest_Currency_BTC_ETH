@@ -1,9 +1,6 @@
 package com.supreme.andelaintermediatetest_currency_btc_eth;
 
-import android.content.Context;
 import android.content.Intent;
-import android.net.ConnectivityManager;
-import android.net.NetworkInfo;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
